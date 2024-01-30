@@ -1,0 +1,6 @@
+/**
+ * Huntable
+ */
+public interface Huntable {
+
+}
